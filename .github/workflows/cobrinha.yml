@@ -1,7 +1,5 @@
 name: Generate Datas
-on:
-  check_run:
-    types: [rerequested, completed]
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
