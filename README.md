@@ -1,6 +1,5 @@
 # Bem-vindo(a) ao perfil do Gabriel Melo 😁
 Olá! meu nome é Gabriel, sou estudante da área de Front-end HTML e CSS niveis avancados e báico em JavaScript com a Dev em Dobro.
-Estudo também IA no Bootcamp do Santander em parceria com a DIO.
 
 ## Minhas Redes Sociais 📱
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo-11675a260/)
