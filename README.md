@@ -1,5 +1,5 @@
 # Bem-vindo(a) ao perfil do Gabriel Melo 😁
-Olá! meu nome é Gabriel, sou estudante da área de Front-end HTML e CSS niveis avancados e báico em JavaScript com a Dev em Dobro, estudando também o BootCamp Microsoft AI for tech - Criando Prompts Inteligentes
+Olá! meu nome é Gabriel, sou estudante da área de Front-end HTML e CSS niveis avancados e báico em JavaScript com a Dev em Dobro, estudando também o BootCamp Microsoft AI for tech - Criando Prompts Inteligentes. 
 
 ## Minhas Redes Sociais 📱
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-melo-11675a260/)
